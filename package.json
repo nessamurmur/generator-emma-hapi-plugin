@@ -26,7 +26,6 @@
   "devDependencies": {
     "yeoman-assert": "^2.0.0",
     "eslint": "^2.1.0",
-    "eslint-config-xo-space": "^0.10.0",
     "gulp": "^3.9.0",
     "gulp-eslint": "^2.0.0",
     "gulp-exclude-gitignore": "^1.0.0",
@@ -37,7 +36,6 @@
     "gulp-nsp": "^2.1.0"
   },
   "eslintConfig": {
-    "extends": "xo-space",
     "env": {
       "mocha": true
     }

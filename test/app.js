@@ -6,7 +6,7 @@ var helpers = require('yeoman-generator').test;
 describe('generator-emma-hapi-plugin:app', function () {
   before(function (done) {
     helpers.run(path.join(__dirname, '../generators/app'))
-      .withPrompts({pluginName: 'test'})
+      .withPrompts({name: 'test'})
       .on('end', done);
   });
 
