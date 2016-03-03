@@ -1,6 +1,6 @@
 {
   "name": "generator-emma-hapi-plugin",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generates a plugin for composing with Glue",
   "homepage": "",
   "author": {

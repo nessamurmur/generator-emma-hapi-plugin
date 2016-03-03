@@ -10,7 +10,7 @@ First, install [Yeoman](http://yeoman.io) and generator-emma-hapi-plugin using [
 
 ```bash
 npm install -g yo
-npm install -g https://github.com/niftyn8/generator-emma-hapi-plugin/archive/1.0.2.tar.gz
+npm install -g https://github.com/niftyn8/generator-emma-hapi-plugin/archive/1.0.3.tar.gz
 ```
 
 Then generate your new project:
