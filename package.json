@@ -1,12 +1,11 @@
 {
   "name": "generator-emma-hapi-plugin",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generates a plugin for composing with Glue",
   "homepage": "",
   "author": {
     "name": "Nate West",
-    "email": "natescott.west@gmail.com",
-    "url": ""
+    "email": "nwest@myemma.com",
   },
   "files": [
     "generators"
