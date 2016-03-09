@@ -47,5 +47,11 @@ module.exports = yeoman.generators.Base.extend({
       this.destinationPath('test/src/' + this.props.name + '/index.js'),
       this.props
     )
+  },
+
+  end: function() {
+    this.log(yosay(
+      chalk.red("Don't forget to add your new plugin to your config!")
+    ));
   }
 });
