@@ -6,8 +6,7 @@ exports.register = function (server, options, next) {
         path: '/<%= name %>',
         handler: function (request, reply) {
             return reply("Hello world");
-        },
-        config: { cors: false },
+        }
     });
 
     next();
